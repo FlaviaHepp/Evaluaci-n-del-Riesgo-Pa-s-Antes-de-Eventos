@@ -97,3 +97,63 @@ sino en la cola estadística de los retornos 📉📊
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+***
+🌍 **¿El riesgo antes de earnings depende del país?**
+
+Cuando se acerca un anuncio de ganancias, todos miran lo mismo:
+
+📊 estimaciones
+📈 guidance
+💰 resultados esperados
+
+Pero hay una dimensión menos evidente:
+
+🧠 **el riesgo estadístico antes del evento.**
+
+---
+
+📉 En este análisis medí:
+
+👉 El **kurtosis** (riesgo de eventos extremos)
+👉 El día previo a earnings
+👉 Comparado entre distintos mercados
+
+---
+
+⚠️ ¿Por qué importa el kurtosis?
+
+Porque no mide volatilidad promedio…
+mide la probabilidad de movimientos **extremos**.
+
+* Kurtosis alto → mayor riesgo de “colas” (eventos inesperados)
+* Kurtosis bajo → comportamiento más estable
+
+---
+
+💡 Pregunta clave:
+
+👉 ¿Algunos mercados son más “predecibles” antes de earnings?
+👉 ¿Otros concentran más riesgo extremo justo antes del evento?
+
+---
+
+🚨 Insight clave:
+**No todos los mercados enfrentan el mismo riesgo…
+incluso antes del mismo tipo de evento.**
+
+---
+
+🔍 ¿Qué permite esto?
+
+✔️ Ajustar exposición por país
+✔️ Detectar mercados más estables vs. más riesgosos
+✔️ Mejorar estrategias globales de event-driven trading
+
+---
+
+📊 En finanzas globales, diversificar no es solo elegir activos…
+es entender **dónde el riesgo se comporta distinto**.
+
+---
+
+#Quant #DataScience #Trading #RiskManagement #Kurtosis #Earnings #Finanzas #GlobalMarkets
